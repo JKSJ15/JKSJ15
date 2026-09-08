@@ -17,5 +17,4 @@ Fique à vontade para explorar, acompanhar e se inspirar!
 ---
 
 ## 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/jakson-jksj15/)
-- 📧 Email: josejakson546@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/jakson-jksj15/))[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josejakson546@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jk.code.j15)
